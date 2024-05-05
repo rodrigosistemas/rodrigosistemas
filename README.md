@@ -3,7 +3,6 @@ Hi, I'm Rodrigo Hernandez, a passionate programmer and Systems Engineering stude
 Computer Engineering student from Ica, Peru, 20 years old.<br> My dedication to technology and my drive to learn and
 learn and improve myself make <br>me stand out. I am looking for challenges that allow me to grow and contribute
 significantly.<br> I am constantly updating myself with the latest technological trends and ready to face <br> any project with enthusiasm.
-and ready to face any project with enthusiasm.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61552371264931) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rodrigo.sistemas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-hernandez-bb0670255/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@rodrigo.sistemas?lang=es) 
