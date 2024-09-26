@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rodrigo Hernandez, a passionate programmer and Systems Engineering student<br>from Ica, Peru, 20 years old. Computer Engineering student from Ica, Peru, 20 years old.<br>My dedication to technology and my drive to learn and learn and improve myself make<br>me stand out. I am looking for challenges that allow me to grow and contribute significantly.<br>I am constantly updating myself with the latest technological trends and ready to face<br>any project with enthusiasm.
+Hola, soy Rodrigo Hernández, estudiante de Ingeniería de Sistemas y programador de Ica, Perú, con 20 años. Mi dedicación a la tecnología y mi afán por aprender y mejorar me hacen destacar. Estoy en busca de desafíos que me permitan crecer y contribuir de manera significativa. Me mantengo en constante actualización con las últimas tendencias tecnológicas y estoy listo para enfrentar cualquier proyecto con entusiasmo.
 
 
 ## 🌐 Socials:
