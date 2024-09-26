@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Rodrigo Hernández, estudiante de Ingeniería de Sistemas y programador de Ica, Perú, con 20 años. Mi dedicación a la tecnología y mi afán por aprender y mejorar me hacen destacar. Estoy en busca de desafíos que me permitan crecer y contribuir de manera significativa. Me mantengo en constante actualización con las últimas tendencias tecnológicas y estoy listo para enfrentar cualquier proyecto con entusiasmo.
+Hola, soy Rodrigo Hernández, estudiante de Ingeniería de Sistemas y programador, con 20 años. Mi dedicación a la tecnología y mi afán por aprender y mejorar me hacen destacar. Estoy en busca de desafíos que me permitan crecer y contribuir de manera significativa. Me mantengo en constante actualización con las últimas tendencias tecnológicas y estoy listo para enfrentar cualquier proyecto con entusiasmo.
 
 
 ## 🌐 Socials:
