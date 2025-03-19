@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigosistemas&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigosistemas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigosistemas" alt="rodrigosistemas" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando **Obtener mi certificación eJPT**
 
 - 🌱 Actualmente estoy aprendiendo **Ciberseguridad e ISO27001**
