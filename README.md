@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigosistemas&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigosistemas" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **Obtener mi certificación eJPT**
-
-- 🌱 Actualmente estoy aprendiendo **Ciberseguridad e ISO27001**
+- 🔭 Actualmente estoy especializándome en **Ciberseguridad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
