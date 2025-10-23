@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Mi nombre es Rodrigo Hernández</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas e Informática</h3>
+<h1 align="center">Hello 👋, My name is Rodrigo Hernández</h1>
+<h3 align="center">Systems Engineering and Computer Science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigosistemas&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigosistemas" /> </p>
 
