@@ -45,4 +45,3 @@ Systems Engineering student focused on Cloud Security and DevSecOps. I automate 
 ---
 [![](https://visitcount.itsvg.in/api?id=rodrigosistemas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
