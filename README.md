@@ -38,12 +38,7 @@ Systems Engineering student focused on Cloud Security and DevSecOps. I automate 
 **Tools**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 Stats & Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosistemas&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Rodrigo's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigosistemas&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Rodrigo's Stats" height="190px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rodrigosistemas&theme=dark&hide_border=false" alt="Rodrigo's Streak" height="190px" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rodrigosistemas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rodrigosistemas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosistemas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
